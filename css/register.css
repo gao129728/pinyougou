@@ -1,0 +1,148 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 2px solid red;
+}
+
+.logo img {
+    margin-top: 10px;
+}
+
+.registerarea {
+    margin-top: 20px;
+    height: 520px;
+    border: 1px solid #ccc;
+}
+
+.registerarea h3 {
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 40px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.registerarea h3 em {
+    font-size: 14px;
+    float: right;
+}
+
+.registerarea a {
+    color: red;
+}
+
+.reg_form {
+    width: 600px;
+    height: 400px;
+    margin: 40px auto 0;
+}
+
+.reg_form li {
+    margin-bottom: 10px;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 34px;
+    margin-left: 10px;
+}
+
+.error {
+    color: red;
+    margin-left: 10px;
+}
+
+.error_icon,
+.success_icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../img/error.png) no-repeat;
+    vertical-align: middle;
+}
+
+.success {
+    color: green;
+    margin-left: 10px;
+}
+
+.success_icon {
+    background: url(../img/success\ \(1\).png);
+}
+
+.safe {
+    padding-left: 158px;
+    color: #ccc;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: red;
+}
+
+.zhong {
+    background-color: green;
+}
+
+.qiang {
+    background-color: orange;
+}
+
+.agree {
+    padding-left: 115px;
+    padding-top: 20px;
+}
+
+.agree input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.agree a {
+    color: skyblue;
+}
+
+.finish {
+    width: 200px;
+    height: 44px;
+    margin: 30px 0 0 130px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    background-color: rgb(221, 0, 27);
+    border: none;
+}
+
+.footer {
+    font-size: 12px;
+    height: 120px;
+    color: rgb(102, 102, 102);
+    text-align: center;
+}
+
+.links {
+    margin-top: 20px;
+    height: 30px;
+}
+
+.copyright {
+    line-height: 20px;
+}
